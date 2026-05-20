@@ -1,7 +1,4 @@
-# pirelli-tire-shop
-A Python CLI app to manage tire shop inventory.
 # Pirelli Tire Shop Simulator
-
 A interactive command-line interface (CLI) banking-style inventory application written in Python. 
 
 # Features
